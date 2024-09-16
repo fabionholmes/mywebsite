@@ -253,3 +253,11 @@ img {
 .bg-base0D { background-color: var(--base0D); }
 .bg-base0E { background-color: var(--base0E); }
 .bg-base0F { background-color: var(--base0F); }
+
+p {
+    margin-left: 44px;
+}
+
+li {
+    margin-left: 44px;
+}
