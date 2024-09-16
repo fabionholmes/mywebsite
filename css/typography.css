@@ -98,6 +98,7 @@ ul li::marker {
 }
 
 ol li::marker {
+    content: '-\00A0';
     color: var(--muted);
 }
 
