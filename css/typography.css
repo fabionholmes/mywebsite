@@ -39,12 +39,12 @@ h5+h6 {
     margin: 0;
 }
 
-h1:before { content: "# "; }
-h2:before { content: "## "; }
-h3:before { content: "### "; }
-h4:before { content: "#### "; }
-h5:before { content: "##### "; }
-h6:before { content: "###### "; }
+h1:before { content: "<H1> "; }
+h2:before { content: "<H2> "; }
+h3:before { content: "<H3> "; }
+h4:before { content: "<H4> "; }
+h5:before { content: "<H5> "; }
+h6:before { content: "<H6> "; }
 
 h1:before, 
 h2:before, 
